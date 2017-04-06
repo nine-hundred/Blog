@@ -1,7 +1,7 @@
 # Site
 title:              "ninehundred's Blog"
-bio:                "ninehundred's Blog."
-description:        "개발관련블로그"
+bio:                "개발과 저자의 연대기를 포스트합니다."
+description:        "개발과 나의 연대기"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
