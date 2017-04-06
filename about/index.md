@@ -16,4 +16,4 @@ comments: false
 ## Blog theme
 블로그 테마 출처
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Moon](https://github.com/TaylanTatli/Moon){: .btn}
