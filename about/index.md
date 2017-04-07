@@ -14,8 +14,8 @@ comments: false
 * 카테고리 추가 예정
 
 ## Neighbor
-* <a href="blog.naver.com/w____j"><b>김우진의 블로그</b></a>
-* <a href="http://blog.pickth.com/"><b>김용훈의 블로그</b></a>
+* <a href="http://blog.naver.com/w____j"><b>개발같은 소리하네</b></a>
+* <a href="http://blog.pickth.com/"><b>피미</b></a>
 
 ## Blog theme
 블로그 테마 출처
