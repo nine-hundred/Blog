@@ -1,5 +1,5 @@
 ---
-layout: post-list
+layout: project
 title: All Posts
 excerpt: "A List of Posts"
 comments: false
