@@ -22,4 +22,5 @@ comments: true
 {$ endraw %}
 
 터미널을 종료하고 다시 시작하면 아래와 같이 Color scheme이 적용되는 모습을 확인 할 수 있습니다.
-![ColorScheme]({{site.url}}/assets/vimColorScheme.jpg)
+
+<img src="({{site.url}}/assets/vimColorScheme.jpg)">
