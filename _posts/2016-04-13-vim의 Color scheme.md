@@ -19,10 +19,9 @@ comments: true
  이후 최상위 디렉토리에서 `.vimrc`파일을 편집하여 하위디렉토리에도 적용하게 합니다.(없으신 분들은 생성해도 됩니다.) 적용방법은 편집기를 통해 `.vimrc`를 열어 아래의 코드를 삽입합니다.
 {% raw %}
 	colorscheme 'colorscheme이름'
-{$ endraw %}
+    
 
 터미널을 종료하고 다시 시작하면 아래와 같이 Color scheme이 적용되는 모습을 확인 할 수 있습니다.
 
 <img src="https://nine-hundred.github.io/Blog/assets/vimColorScheme.jpg">
-
 
