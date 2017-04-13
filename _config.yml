@@ -25,7 +25,7 @@ sass:
   sass_dir:         _sass
   style:            compressed
 
-# Comments
+Comments:           true
 disqus_shortname:   taylantatli
 
 # Social
