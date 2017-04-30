@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 맥 Package관리자 HomeBrew
+title: 맥의 패키지관리자 HomeBrew
 date: 2016-04-19
 excerpt: "과거 리눅스에서 작업을 할 때..."
 tags: [Homebrew, How to, mac]
