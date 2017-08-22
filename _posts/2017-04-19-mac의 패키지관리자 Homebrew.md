@@ -14,7 +14,7 @@ comments: true
 다운 및 설치는 아주 간단합니다. 터미널에 가서 아래의 명령어를 입력하면 다운로드부터 설치까지 한번에 됩니다. 
 {% raw %}
 	/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-    
+{% endraw %}
 <img src="https://nine-hundred.github.io/Blog/assets/brewInstall.jpeg">
     
 설치에 대한 자세한 사항은 <a href="https://brew.sh/index_ko.html">Homebrew</a>를 참조하시면 됩니다.
